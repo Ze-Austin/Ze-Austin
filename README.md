@@ -8,7 +8,7 @@ I'm a Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voi
 
 - 👨🏾‍💻 Pronouns: He/Him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Python (Flask) and Open Source Contribution, while practicing what I've learnt about HTML, CSS and JS.
+- 🌱 I’m currently learning Python (Flask) and Open Source Contribution, while practicing HTML, CSS and JS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineering, Technical Writing, Editing, Leadership, Healthcare Software.
 - 📫 You can contact me via email: austinwopara@gmail.com.
