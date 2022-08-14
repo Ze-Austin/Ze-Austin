@@ -2,7 +2,7 @@
 
 # Hello and Welcome! 👋🏾
 
-I'm a Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, solving problems, creating/nurturing healthy communities, and having a positive impact.
+I'm a Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, solving problems, creating & maintaining healthy communities, and having a positive impact.
 
 **Here's a quick summary about me**:
 
