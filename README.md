@@ -2,15 +2,15 @@
 
 # Hello and Welcome! 👋🏾
 
-I'm a Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, solving problems, creating & maintaining healthy communities, and having a positive impact.
+I'm a Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, discovering & solving problems, creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
-- 👨🏾‍💻 Pronouns: He/Him
+- 😊 Pronouns: He/Him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python (Flask) and Open Source Contribution, while practicing HTML, CSS and JS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineering, Technical Writing, Editing, Leadership, Healthcare Software.
+- 💼 Job interests: Software Engineering, Technical Writing, Quality Assurance, Editing, Leadership, Healthcare Software.
 - 📫 You can contact me via email: austinwopara@gmail.com.
 
 ---
