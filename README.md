@@ -7,10 +7,10 @@ I'm a Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voi
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/Him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun facts: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. Since 2018, I have built a lot of experience and expertise with maps and navigation, as well as behind-the-scenes expertise with QA and AI testing for search engines (this is as much as some NDAs will allow me to say)
 - 🌱 I’m currently learning Python (Flask) and Open Source Contribution, while practicing HTML, CSS and JS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.
-- 💼 Job interests: Software Engineering, Technical Writing, Quality Assurance, Editing, Leadership, Healthcare.
+- 💼 Job interests: Software Engineering, Technical Writing, Editing, Quality Assurance, Leadership, Healthcare.
 - 📫 You can contact me via email: austinwopara@gmail.com.
 
 ---
