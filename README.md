@@ -6,20 +6,37 @@
  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ze-Austin&style=flat-square&color=blue" alt="Profile View Counter"/>
-
-  # Hello and Welcome! 👋🏾
 </div>
+
+<h1 align="center">
+  Hello and Welcome! 👋🏾
+</h1>
 
 I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer in Search Engine Evaluation while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, discovering & solving problems (in communication, software and hardware), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/Him/His.
+- 👨‍💻 Pronouns: He/Him/His.
 - 💡 Fun facts: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. 
 - 🌱 I’m currently learning Python (Flask) and Open Source Contribution, while practicing HTML, CSS and JS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.
 - 💼 Job interests: Software Engineering, Technical Writing, Editing, Quality Assurance, Search Engine Evaluation & Optimization, Leadership, Healthcare Software.
 - 📫 You can contact me via Twitter: [@Ze_Austin](https://twitter.com/ze_austin) or email: austinwopara@gmail.com.
+
+---
+
+### :hammer_and_wrench: Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+</div>
 
 ---
 
