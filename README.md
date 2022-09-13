@@ -12,7 +12,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer in Search Engine Evaluation while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, discovering & solving problems (in communication, software and hardware), creating & maintaining healthy connections, and having a positive impact.
+I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer in Search Engine Evaluation while studying at AltSchool Africa. I'm passionate about learning, teaching, web engineering, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
