@@ -25,11 +25,11 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Edito
 
 ---
 
-<div align:"center">
-  <h1>:hammer_and_wrench: Languages and Tools</h1>
-</div> 
-
-<div align:"center">
+<h1 align="center">
+  :hammer_and_wrench: Languages and Tools
+</h1>
+ 
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
