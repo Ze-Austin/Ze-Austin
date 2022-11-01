@@ -41,5 +41,9 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Edito
 
 ---
 
+![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
+
+---
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ze-austin&show_icons=true&include_all_commits=true&hide_border=true" alt="Austin's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze-austin&langs_count=8&layout=compact&hide_border=true" alt="Austin's GitHub stats" />
 | ------------- | ------------- |
