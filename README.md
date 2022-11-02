@@ -18,7 +18,7 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Edito
 
 - 👨‍💻 Pronouns: He/Him/His.
 - 💡 Fun facts: I'm always available for a chat. I'm good at fantasy sports (FPL, UCL, Eliteserien), Mahjong, Scrabble and other word games. Everything intrigues me to an extent, so I can find some enjoyment in most forms of entertainment; favourites being edutainment via videos and podcasts.
-- 🌱 I’m currently learning Python (Flask) and Open Source Contribution, while practicing HTML, CSS and JS at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation & Optimization, Leadership, Healthcare Software.
 - 📫 You can contact me via Twitter: [@Ze_Austin](https://twitter.com/ze_austin) or email: austinwopara@gmail.com.
