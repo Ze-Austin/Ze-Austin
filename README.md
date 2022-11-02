@@ -28,6 +28,10 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Edito
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation & Optimization, Leadership, Healthcare Software.
 - 📫 You can contact me via Twitter: [@Ze_Austin](https://twitter.com/ze_austin) or email: austinwopara@gmail.com.
 
+<h3 align="center">
+  If you'd like to use this profile as a template, <a href="https://github.com/Ze-Austin/Ze-Austin">fork this repo<a/>
+</h3>
+
 ---
 
 <h1 align="center">
