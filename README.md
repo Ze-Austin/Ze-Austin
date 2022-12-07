@@ -25,7 +25,7 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Edito
 - 💡 Fun facts: I'm always available for a chat. I'm good at fantasy sports (FPL, UCL, Eliteserien), Mahjong, Scrabble and other word games. Everything intrigues me to an extent, so I can find some enjoyment in most forms of entertainment; favourites being edutainment via videos and podcasts. Baymax is my spirit ~animal~ robot 💜 
 - 🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
-- 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation & Optimization, Leadership, Healthcare Software.
+- 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
 - 📫 You can contact me via Twitter: [@Ze_Austin](https://twitter.com/ze_austin) or email: austinwopara@gmail.com.
 
 ---
