@@ -26,7 +26,7 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Edito
 - 🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
-- 👉 Read my articles on [Austin's Space](https://ze-austin.hashnode.dev) on Hashnode.
+- 👉 Read my articles in [Austin's Space](https://ze-austin.hashnode.dev) on Hashnode.
 - 📫 You can contact me via Twitter: [@Ze_Austin](https://twitter.com/ze_austin) or email: austinwopara@gmail.com.
 
 ---
