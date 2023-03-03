@@ -10,7 +10,7 @@
 </div>
  
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ze-Austin&style=flat-square&color=blue" alt="Profile View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Ze-Austin&style=plastic&color=blue" alt="Profile View Counter"/>
 </div>
 
 <h1 align="center">
