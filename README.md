@@ -17,14 +17,14 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as a freelancer in Search Engine Evaluation while studying at AltSchool Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
+I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as an Intern Backend Python Developer at Owlya, while being a mentor at AltSchool Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: He/Him/His.
 - 💡 Fun facts: I'm always available for a chat. I'm good at fantasy sports (FPL & UCL), Mahjong, Scrabble and other word games. Everything intrigues me to an extent, so I can find some enjoyment in most forms of entertainment; favourites being edutainment via videos and podcasts. Baymax is my spirit ~animal~ robot 💜 
-- 🌱 I’m currently learning Backend Engineering with Python (Flask & Django), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
+- 🌱 I learnt Backend Engineering with Python (Flask & Django), Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA, Open Source Contribution, Agile Software Development and Scrum Methodology at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 😊 I’m open to discussing open source projects, hackathons, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
 - 👉 Read my articles in [Austin's Space](https://ze-austin.hashnode.dev) on Hashnode.
 - 📫 You can contact me via Twitter: [@Ze_Austin](https://twitter.com/ze_austin) or email: austinwopara@gmail.com.
