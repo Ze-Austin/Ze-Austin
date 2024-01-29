@@ -17,7 +17,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer, (non-practicing) Medical Doctor, Writer, Editor and Voice Talent who currently works as an Intern Backend Python Developer at Owlya, while being a mentor at AltSchool Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
+I'm a friendly Software Engineer, (non-practicing) Medical Doctor and Writer who currently works as a Full Stack Developer (Django & Angular) at Owlya, while being a mentor at AltSchool Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
