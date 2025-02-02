@@ -17,7 +17,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer, (non-practicing) Medical Doctor and Writer who currently works as a Full Stack Developer (Django & Angular) at Owlya. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
+I'm a friendly Software Engineer, (non-practicing) Medical Doctor and Writer who currently works as the Team Lead - Fulfillment and Backend Engineering at Owlya. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
