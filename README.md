@@ -23,7 +23,7 @@ I'm a friendly Software Engineer, (non-practicing) Medical Doctor and Writer who
 
 - 👨‍💻 Pronouns: He/Him/His.
 - 💡 Fun facts: I'm always available for a chat. I'm good at fantasy sports (FPL & UCL), Mahjong, Scrabble and other word games. Everything intrigues me to an extent, so I can find some enjoyment in most forms of entertainment; favourites being edutainment via videos and podcasts. Baymax is my spirit ~animal~ robot 💜 
-- 🌱 I'm an alumnus of the AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I'm an alumnus of the AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 😊 I’m open to discussing open source projects, hackathons, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
 - 👉 Read my articles in [Austin's Space](https://ze-austin.hashnode.dev) on Hashnode.
