@@ -17,7 +17,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer, (non-practicing) Medical Doctor and Writer who currently works as a Full Stack Developer at Bral AI. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
+I'm a friendly Software Engineer, (non-practicing) Medical Doctor and Writer who currently works part-time as a Python Reviewer at Parsewave, while being open to full-time Software Engineering roles. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech & health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
